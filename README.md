@@ -21,6 +21,13 @@ Builds the web app for production in the **dist** folder using the command:
 $ npm run build
 ```
 
+## Deploy
+Deploys the production web app from the **dist** folder in Github Pages:
+
+```
+$ npm run deploy
+```
+
 ## Author
 [Evdoxia Deligianni](https://github.com/evideli)
 
