@@ -1,0 +1,8 @@
+# Node.js & build related files
+node_modules/
+dist/
+
+# OS generated files
+.DS_Store
+.Trashes
+Thumbs.db
