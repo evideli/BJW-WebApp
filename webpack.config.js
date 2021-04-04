@@ -141,7 +141,7 @@ files.forEach(file => {
     new HtmlWebPackPlugin({
       filename: path.basename(file),
       template: file,
-      favicon: path.resolve(__dirname, './src/public/icon.ico'),
+      favicon: path.resolve(__dirname, './src/public/favicon.png'),
       minify: !IS_DEV,
     })
   );
