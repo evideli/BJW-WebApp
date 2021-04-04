@@ -15,7 +15,7 @@ $ npm run dev
 ```
 
 ## Build
-Builds the web app for production in the **dist** folder using the command"
+Builds the web app for production in the **dist** folder using the command:
 
 ```
 $ npm run build
