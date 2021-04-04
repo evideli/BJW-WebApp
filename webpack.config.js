@@ -98,7 +98,7 @@ const config = {
     contentBase: path.join(__dirname, 'src'),
     compress: true,
     historyApiFallback: true,
-    port: 8888, // port number
+    port: 5000, // port number
     open: true,
     stats: {
       colors: true,
