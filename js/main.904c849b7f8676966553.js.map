@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://bjw-webapp/./src/js/index.js"],"names":["$","on","alert"],"mappings":"mHAIAA,CAAE,YAAYC,GAAG,SAAS,WACxBC,MAAM,+B","file":"js/main.904c849b7f8676966553.js","sourcesContent":["import 'bootstrap';\n\nimport '../scss/index.scss';\n\n$('#sign-in').on('click', () => {\n  alert('Operation not allowed!');\n});\n\n// Your jQuery code\n"],"sourceRoot":""}

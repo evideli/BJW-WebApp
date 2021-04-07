@@ -1,2 +1,0 @@
-(self.webpackChunkbjw_webapp=self.webpackChunkbjw_webapp||[]).push([[179],{126:(e,n,s)=>{"use strict";s(734);s(755)("#sign-in").on("click",(function(){alert("Operation not allowed!")}))}},e=>{"use strict";e.O(0,[736],(()=>{return n=126,e(e.s=n);var n}));e.O()}]);
-//# sourceMappingURL=main.904c849b7f8676966553.js.map
