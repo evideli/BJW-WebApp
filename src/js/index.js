@@ -1,13 +1,9 @@
 import 'bootstrap';
 
-import '../scss/index.scss';
+import '../css/index.css';
 
 jQuery(function () {
-  console.log("ready!");
-  $(".carousel-inner").css({
-    "background-color": "rgba(black, 0.9)",
-    "zIndex": 1,
-  });
+
 })
 
 $('#sign-in').on('click', () => {
