@@ -1,3 +1,23 @@
 @import './carousel.css';
 
-// Your customize CSS
+#bootstrap-more-button {
+    background-color: #673ab7;
+    border-color: #673ab7;
+}
+
+#jquery-more-button {
+    background-color: #0169af;
+    border-color: #0169af;
+}
+
+#webpack-more-button {
+    background-color: #8acff3;
+    border-color: #8acff3;
+    color: black;
+}
+
+#navbar-search-button {
+    background-color: #5cb85c;
+    border-color: #5cb85c;
+    color: white;
+}
