@@ -1,2 +1,2 @@
 (self.webpackChunkbjw_webapp=self.webpackChunkbjw_webapp||[]).push([[179],{126:(n,o,t)=>{"use strict";t(734);var e=t(755),c=t(755);e((function(){})),c("#sign-in").on("click",(function(){alert("Operation not allowed!")})),c("#bootstrap-more-button").on("click",(function(){window.open("https://getbootstrap.com/","_blank")})),c("#jquery-more-button").on("click",(function(){window.open("https://jquery.com/","_blank")})),c("#webpack-more-button").on("click",(function(){window.open("https://webpack.js.org/","_blank")}))}},n=>{"use strict";n.O(0,[736],(()=>{return o=126,n(n.s=o);var o}));n.O()}]);
-//# sourceMappingURL=main.7e9867a4eb67d9987b12.js.map
+//# sourceMappingURL=main.75861e0e004b7b8095b3.js.map
