@@ -10,10 +10,13 @@ A simple Web Application created using Bootstrap 4, jQuery 3 and Webpack 5.
 * Use of jQuery logic and custom css
 
 ## Screenshots
+<h3 align="center">Home Page</h3>
 <p align="center">
-  Home Page
 <img height="580px" width="900px" src="github-screenshots/screen1.jpg" title="Home Page"> </br>
-  News Page
+
+</br>
+
+<h3 align="center">News Page</h3>
 <img height="580px" width="900px" src="github-screenshots/screen2.jpg" title="News Page">
 </p>
 
