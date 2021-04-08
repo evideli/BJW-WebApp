@@ -1,0 +1,18 @@
+/* CUSTOMIZE THE FEATURES SECTION
+-------------------------------------------------- */
+
+/* Center align the text within the three columns below the carousel */
+.features .col-lg-4 {
+    margin-bottom: 1.5rem;
+    text-align: center;
+}
+
+.features h2 {
+    font-weight: 400;
+}
+
+.features .col-lg-4 p {
+    margin-right: 0.75rem;
+    margin-left: 0.75rem;
+}
+  

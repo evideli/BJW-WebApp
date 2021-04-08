@@ -1,0 +1,9 @@
+/* CUSTOMIZE THE NAVBAR
+-------------------------------------------------- */
+
+/* Change the styling of the search button */
+#navbar-search-button {
+    background-color: #5cb85c;
+    border-color: #5cb85c;
+    color: white;
+}
