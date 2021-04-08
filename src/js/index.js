@@ -1,5 +1,4 @@
 import 'bootstrap';
-
 import '../css/index.css';
 
 jQuery(function () {
@@ -20,4 +19,8 @@ $('#jquery-more-button').on('click', () => {
 
 $('#webpack-more-button').on('click', () => {
   window.open("https://webpack.js.org/", "_blank");
+});
+
+$(".form-inline").submit((event) => {
+  event.preventDefault();
 });
