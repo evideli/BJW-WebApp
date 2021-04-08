@@ -38,7 +38,7 @@
         </ul>
         <form class="form-inline mt-2 mt-md-0">
           <input class="form-control mr-sm-2" type="text" placeholder="Search" aria-label="Search" />
-          <button class="btn btn-outline-success my-2 my-sm-0" type="submit">
+          <button id="navbar-search-button" class="btn btn-outline-success my-2 my-sm-0" type="submit">
             Search
           </button>
         </form>
@@ -47,10 +47,78 @@
   </header>
 
   <main role="main">
-    <div class="jumbotron">
-      <h1 class="text-center">This is the news page</h1>
+    <div class="container">
+      <h1 class="display-3 text-center pt-5">Tech news of the week</h1>
+      <h3 class="text-center pt-2 pb-5 mb-5">Check out the latest tech news of the week from the most popular technology
+        blogs over the internet below</h3>
+
+
+      <!-- News section -->
+
+      <div class="row news pt-4">
+        <div class="col-md-7">
+          <h2 class="news-heading">
+            First news heading.
+            <span class="text-muted">It'll blow your mind.</span>
+          </h2>
+          <p class="lead">
+            Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id
+            ligula porta felis euismod semper. Praesent commodo cursus magna,
+            vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus
+            commodo.
+          </p>
+        </div>
+        <div class="col-md-5">
+          <img class="news-image img-fluid mx-auto" src="http://via.placeholder.com/500x500"
+            alt="Generic placeholder image" />
+        </div>
+      </div>
+
+      <hr class="news-divider" />
+
+      <div class="row news">
+        <div class="col-md-7 order-md-2">
+          <h2 class="news-heading">
+            Oh yeah, it's that good.
+            <span class="text-muted">See for yourself.</span>
+          </h2>
+          <p class="lead">
+            Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id
+            ligula porta felis euismod semper. Praesent commodo cursus magna,
+            vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus
+            commodo.
+          </p>
+        </div>
+        <div class="col-md-5 order-md-1">
+          <img class="news-image img-fluid mx-auto" src="http://via.placeholder.com/500x500"
+            alt="Generic placeholder image" />
+        </div>
+      </div>
+
+      <hr class="news-divider" />
+
+      <div class="row news">
+        <div class="col-md-7">
+          <h2 class="news-heading">
+            And lastly, this one. <span class="text-muted">Checkmate.</span>
+          </h2>
+          <p class="lead">
+            Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id
+            ligula porta felis euismod semper. Praesent commodo cursus magna,
+            vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus
+            commodo.
+          </p>
+        </div>
+        <div class="col-md-5">
+          <img class="news-image img-fluid mx-auto" src="http://via.placeholder.com/500x500"
+            alt="Generic placeholder image" />
+        </div>
+      </div>
     </div>
-    <!-- FOOTER -->
+
+    <hr class="footer-divider" />
+
+    <!-- Footer with copyright info -->
     <footer class="container">
       <p class="float-right"><a href="#">Back to top</a></p>
       <p>

@@ -1,0 +1,7 @@
+/* CUSTOMIZE THE FOOTER
+-------------------------------------------------- */
+
+.footer-divider {
+    margin: 5rem 0; /* Space out the Bootstrap <hr> more */
+    border-width: 1.5px;
+}
