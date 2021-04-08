@@ -14,4 +14,7 @@
 
 .news-image {
     border-radius: 10%;
+    width: 400px;
+    height: 400px;
+    object-fit: cover;
 }
